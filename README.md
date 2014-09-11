@@ -10,9 +10,9 @@ Johnathan D Mercer, Balaji Pandian, Alexander Lex, Nicolas Bonneel, and Hanspete
 
 ## Team:
 
-Johnathan Mercer (mercer at fas.harvard.edu)
-Balaji Pandian (balajipandian at college.harvard.edu)
-[Alexander Lex](http://alexander-lex.com/) (alex at seas.harvard.edu)
-[Nicolas Bonneel](http://people.seas.harvard.edu/~nbonneel/) (nbonneel at seas.harvard.edu)
+Johnathan Mercer (mercer at fas.harvard.edu)  
+Balaji Pandian (balajipandian at college.harvard.edu)  
+[Alexander Lex](http://alexander-lex.com/) (alex at seas.harvard.edu)  
+[Nicolas Bonneel](http://people.seas.harvard.edu/~nbonneel/) (nbonneel at seas.harvard.edu)  
 [Hanspeter Pfister](http://vcg.seas.harvard.edu/) (pfister at seas.harvard.edu)
 
