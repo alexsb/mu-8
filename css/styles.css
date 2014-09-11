@@ -54,14 +54,31 @@ p.methodology {
 .explanation{
     width: 400px;
     word-wrap: break-word;
-}
-
-#explanationBody{
     margin-left: 50px;
-    font-size: 20px; 
+    font-size: 20px;
     width: 1000px;
     word-wrap: break-word;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:link {
+    border-bottom: 1px #CC4C02 dotted;
+} /* unvisited link */
+a:visited {
+    border-bottom: 1px #FE9929 dotted;
+} /* visited link */
+a:hover {
+    color: #EC7014;
+    border-bottom: 1px #EC7014 dotted;
+} /* mouse over link */
+a:active {
+    border-bottom: 1px #FEC44F dotted;
+}
+
 
 ul.desc{
    margin-left: 75px;
