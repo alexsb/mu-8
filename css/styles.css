@@ -1,10 +1,12 @@
 
 html,body { height:100%; position: absolute;}
 
-body
+
+/**body
 {
 	background-image: url('../img/debut_light.png');
 }
+*/
 
 /* uservisinfobox from http://theory.info/harvardstat221#?s=d3 workshop&v=function-and-its-derivative*/
 .uservisinfobox {
