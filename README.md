@@ -1,4 +1,4 @@
-Mu-8 (from 'mutate') is our approach to uncover which mutation of an amino-acid sequence causes a functional breakdown in a protein. Mu-8 was conceived as a contribution to the 2013 BioVis Contest and was originally developed by with students of Harvard's CS 171 - Visualization class.
+Mu-8 (from 'mutate') is our approach to uncover which mutation of an amino-acid sequence causes a functional breakdown in a protein. Mu-8 was conceived as a contribution to the 2013 BioVis Contest and was originally developed with students of Harvard's CS 171 - Visualization class.
 
 Mu-8 visualizes differences of principal components of a mutated protein relative to its protein family, in addition to the conservation of regions of the sequence, 3D structure and proximity data.
 
